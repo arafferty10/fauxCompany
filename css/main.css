@@ -1,0 +1,28 @@
+.icon-sprite, .icon-BFR, .icon-New_shepard, .icon-f9, .icon-fh, .icon-newGlenn, .icon-soyouz {
+  background-image: url('../img/icon-sdfebaf05e1.png');
+  background-repeat: no-repeat;
+}
+
+.icon-BFR {
+  background-position: 0 0;
+}
+
+.icon-New_shepard {
+  background-position: 0 -5820px;
+}
+
+.icon-f9 {
+  background-position: 0 -6240px;
+}
+
+.icon-fh {
+  background-position: 0 -11654px;
+}
+
+.icon-newGlenn {
+  background-position: 0 -17496px;
+}
+
+.icon-soyouz {
+  background-position: 0 -18728px;
+}
